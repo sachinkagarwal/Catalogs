@@ -700,4 +700,12 @@
      "portinfo": "Originally at <a href='http://code.google.com/p/zxing'>http://code.google.com/p/zxing</a>.<p>Our repo is an officially sanctioned port</p>",
      "tags": [ "native", "bb10", "playbook", "port" ]
  }
+ "NME": {
+     "desc": "Saturnring",
+     "url": "http://github.com/blackberry/saturnring",
+     "type": "other",
+     "branches": ["master"],
+     "note": "Saturnring is a network block storage provisioning and management system for the Cloud",
+     "tags": [ "saturnring", "iscsi", "cloud", "storage","block storage","ssd" ]
+ },
 }
